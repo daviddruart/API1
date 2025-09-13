@@ -9,7 +9,7 @@ Ideal para **prácticas, pruebas rápidas o demostraciones**.
 ## 🚀 Requisitos
 
 - Python 3.x
-- Pip (gestor de paquetes)
+- Pip (gestor de paquetes). FLASK, REQUIEREMENTS.TXT
 - GitHub Codespaces o tu entorno local
 
 ---
